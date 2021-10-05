@@ -1,0 +1,19 @@
+###########################################
+# Syntax Coloring Map For GP2Y1010AU0F
+###########################################
+
+###########################################
+# Datatypes (KEYWORD1)
+###########################################
+
+GP2Y1010AU0F	KEYWORD1
+
+###########################################
+# Methods and Functions (KEYWORD2)
+###########################################
+getDustDensityDefault KEYWORD2
+getDustDensityCalibrate KEYWORD2
+getDustDensityCustom KEYWORD2
+###########################################
+# Constants (LITERAL1)
+###########################################
