@@ -21,7 +21,7 @@ float getDustDensityDefault();
 float getDustDensityCalibrate();
 ```
 
-### .Take value Dust Density, unit (mg/m3). Use custom Formula
+### Take value Dust Density, unit (mg/m3). Use custom Formula
 ```
 float getDustDensityCustom(float A, float B);
 ```
